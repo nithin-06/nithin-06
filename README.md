@@ -1,4 +1,5 @@
 # Nithin Raju
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithin._.06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajunithin2002@gmail.com)
 
 Embedded Systems • Networking • AI
 
@@ -33,4 +34,6 @@ Python • Git • Docker • JavaScript
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nithin-06&theme=highcontrast&card_width=900)](https://git.io/streak-stats)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithin._.06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajunithin2002@gmail.com)
+[![Nithin's GitHub stats](https://github-stats-extended.vercel.app/api?username=nithin-06)](https://github.com/stats-organization/github-stats-extended)
+
+
