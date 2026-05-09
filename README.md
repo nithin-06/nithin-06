@@ -3,7 +3,7 @@
 </p>
 
 # Nithin Raju
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithin._.06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajunithin2002@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithin._.06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajunithin2002@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://nithinraju.rajunithin2002.workers.dev/)
 
 Embedded Systems • Networking • AI
 
@@ -42,6 +42,8 @@ Python • Git • Docker • JavaScript
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" />
   </a>
 </p>
+
+🌐 Portfolio: https://nithinraju.rajunithin2002.workers.dev/
 
 ##
 
