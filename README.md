@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Nithin Raju Banner"/>
+  <img src="Banner.png" alt="Nithin Raju Banner"/>
 </p>
 
 # Nithin Raju
