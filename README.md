@@ -33,4 +33,4 @@ Python • Git • Docker • JavaScript
 
 [![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin-06)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nithin-06&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nithin-06&theme=highcontrast&card_width=900)](https://git.io/streak-stats)
